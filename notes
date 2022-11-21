@@ -1,0 +1,10 @@
+Core Modules
+
+http: módulo para criar servidores http
+path: extrair informações de paths(caminhos) de arquivos
+fs: file system, leitura e escrita de arquivos
+url: módulo para trabalhar com URLs
+
+--save-dev: modo de desenvolvimento
+npm update: atualizar pacotes
+-g: instalar globalmente
